@@ -44,7 +44,30 @@ Este proyecto transforma una muestra de **100 publicaciones** en clusters temát
  ┣ requirements.txt       # librerias necesarias
  ┗ README.md              # este archivo
 ```
+## 🚀 Cómo Empezar
 
+Para obtener una copia local de este proyecto, sigue los siguientes pasos:
+
+1.  Abre tu terminal o línea de comandos.
+2.  Clona el repositorio utilizando la siguiente URL:
+
+    ```bash
+    git clone [https://github.com/Merlin2098/Retail-Reputational-Risk-Pipeline.git](https://github.com/Merlin2098/Retail-Reputational-Risk-Pipeline.git)
+    ```
+
+3.  Navega al directorio del proyecto:
+
+    ```bash
+    cd Retail-Reputational-Risk-Pipeline
+    ```
+
+4.  Instala las dependencias necesarias:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+Una vez completados estos pasos, puedes abrir el proyecto en tu entorno de desarrollo preferido.
 ---
 
 🔄 Flujo del Proyecto
