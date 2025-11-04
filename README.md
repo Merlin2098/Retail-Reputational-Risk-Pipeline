@@ -104,11 +104,5 @@ El pipeline permitió identificar **5 clusters de conversacion** con riesgos rep
 - 📊 Presentación ejecutiva con insights (PowerPoint)  
 - 📑 Código Python documentado en `/scripts/`  
 
----
-
-## 👤 Autor
-**Ricardo Uculmana Quispe**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardouculmanaquispe/)  
-- 🌐 [Portafolio en Notion](https://www.notion.so/Portfolio-de-proyectos-222662e8c9dc80ae9b68d1d797ae0afc?p=259662e8c9dc801faa75f2cf6c0f8944&pm=c)  
 
 
